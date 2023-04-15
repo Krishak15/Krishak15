@@ -3,7 +3,7 @@
 <h4 align="center">"Combining coding skills and design skills to create unique, innovative products."</h4>
 
 <h4> Mastering the art of Flutter development </h4>
-<img align="right" alt="Coding" width-"200" height="400" src="https://i.pinimg.com/originals/87/f0/9e/87f09ea6424a369e5ba8a639ba3e60d0.jpg">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
