@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi, I'm Anand Krishna</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishak15&label=Profile%20views&color=0e75b6&style=flat" alt="Krishak15" /> </p>
-<h4 align="center">"Combining coding skills and design skills to create unique, innovative products."</h4>
+<p align="center">Combining coding skills and design skills to create unique, innovative products.</p>
 
 
-<h4 align="center"> Mastering the art of Flutter development </h4>
+<p align="center" > Mastering the art of Flutter development </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +19,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,firebase,ps,vscode&theme=dark)](https://flutter.dev/)
 
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Krishak15&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
-&nbsp;
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishak15&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="krishak15" /></p>
