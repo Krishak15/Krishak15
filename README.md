@@ -1,12 +1,15 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Krishak15&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox">
+</p>
 
 
-<h1 align="center">Hi, I'm Anand Krishna</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Krishak15&label=Profile%20views&color=0e75b6&style=flat" alt="Krishak15" /> </p>
+<p align="center"> <img src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" alt="Krishak15" /> </p>
 <p align="center">Combining coding skills and design skills to create unique, innovative products.</p>
 
 
-<p align="center" > Mastering the art of Flutter development </p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,firebase,ps,vscode&theme=dark)](https://flutter.dev/)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,git,firebase,ps,vscode,github,html&theme=dark)](https://flutter.dev/)
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Krishak15&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
