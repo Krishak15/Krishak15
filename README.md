@@ -25,4 +25,4 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Krishak15&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishak15&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="krishak15" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishak15&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="krishak15" /></p> --!>
